@@ -1,0 +1,32 @@
+_repo: Wyandot-Government--A-Short-Study-of-Tribal-SocietyBureau-of-American-Ethnology_16947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, J. W. (John Wesley)
+    - Powell, Wes
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: ''
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyandot Indians'
+- !lcc 'E011'
+title: 'Wyandot Government: A Short Study of Tribal Society
+
+  Bureau of American Ethnology'
+url: http://www.gutenberg.org/ebooks/16947
