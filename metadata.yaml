@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7040
     wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16947#Wyandot-Government--A-Short-Study-of-Tribal-SocietyBureau-of-American-Ethnology
 gutenberg_issued: '2005-10-25'
 gutenberg_type: Text
 identifiers:
